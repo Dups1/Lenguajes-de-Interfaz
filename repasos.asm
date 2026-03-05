@@ -1,0 +1,8 @@
+; jmp = jump (salta incondicionalmente a la etiqueta especificada)
+;je = jump if equal (salta si son iguales)
+;Jbe = jump if below or equal (salta si es menor o igual)
+;Jb = jump if below (salta si es menor)
+;ja = jump if above (salta si es mayor)
+;jae = jump if above or equal (salta si es mayor o igual)
+;jne = jump if not equal (salta si no son iguales)
+;jmp = jump (salta incondicionalmente a la etiqueta especificada)
